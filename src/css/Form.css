@@ -1,0 +1,5 @@
+#formhome{ font-size: larger ; font-family: initial; display: flex;justify-content: center;align-items: center; margin-top: 15%; flex-direction: column ; height: 40vh;width: 70;margin-left: 15%; border: 2px solid black;
+border-radius: 10px;}
+.divP{font-size: large;padding:10px} ;
+.LabelInput{ font-size:50px; border-radius: 10px;}
+#formsubmit{height: 40px; padding:5px; width: 80px; background-color: black;color: white; border-radius: 5px; margin-top: 20px;}
